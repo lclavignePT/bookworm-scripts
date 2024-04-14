@@ -17,7 +17,7 @@ mkdir ~/Screenshots/
 # bash ~/bookworm-scripts/resources/bspwm-commands
 # bash ~/bookworm-scripts/resources/dk-commands
 # bash ~/bookworm-scripts/resources/dwm-commands
-bash ~/bookworm-scripts/resources/qtile-commands
+# bash ~/bookworm-scripts/resources/qtile-commands
 # bash ~/bookworm-scripts/resources/i3-commands
 
 # XFCE4 Minimal
